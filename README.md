@@ -1,5 +1,5 @@
-<!-- Profile Banner -->
 <p align="center">
+<!-- Profile Banner --><img width="1536" height="1024" alt="toprak_aktas_banner" src="https://github.com/user-attachments/assets/b7c4a39b-cb4d-4feb-8e8b-2d1725ef5300" />
 
 </p>
 
@@ -37,6 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=toprakaktas&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toprakaktas&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toprakaktas&layout=compact&theme=radical" />
 </p>
 
