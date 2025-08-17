@@ -1,8 +1,3 @@
-<p align="center">
-<!-- Profile Banner --><img width="1536" height="1024" alt="toprak_aktas_banner" src="https://github.com/user-attachments/assets/b7c4a39b-cb4d-4feb-8e8b-2d1725ef5300" />
-
-</p>
-
 <h1 align="center">Hi 👋, I'm Toprak Aktaş</h1>
 <h3 align="center">💻 Junior Software Developer | Flutter Developer</h3>
 
