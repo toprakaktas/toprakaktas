@@ -9,7 +9,7 @@
 - 📱 Junior Flutter Developer – focused on Clean Architecture  
 - 🧪 Experienced with Java, Selenium WebDriver, and BDD (Cucumber/Gherkin)  
 - 🛠 Building: **TyMan – Task Management App**  
-- 🌱 Currently exploring: **Firebase | Flutter | Fullstack Development **  
+- 🌱 Currently exploring: **Flutter | Firebase | Fullstack Development**  
 - ✍️ Writing tech blogs on [Medium](https://medium.com/@toprakaktas)
 
 ---
