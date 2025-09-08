@@ -40,7 +40,7 @@
 
 ### 🚀 Featured Projects
 
-- 🧩 [TyMan – Task Management App](https://github.com/toprakaktas/tyman)  
+- 🧩 [TyMan – Task Management App](https://github.com/toprakaktas/tyman-task-management-application)  
   Flutter-based productivity app with Clean Architecture and Firebase integration
 
 - 🌐 [Medium Content](https://github.com/toprakaktas/medium-content) 
